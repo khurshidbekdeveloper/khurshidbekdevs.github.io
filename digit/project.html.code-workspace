@@ -1,0 +1,71 @@
+{
+	"folders": [
+		{
+			"name": "project.html",
+			"path": "../../project.html"
+		},
+		{
+			"name": "xurshidbek",
+			"path": "../../xurshidbek"
+		},
+		{
+			"name": "Z.Rakhimov__lessons.html",
+			"path": "../../Z.Rakhimov__lessons.html"
+		},
+		{
+			"name": "rasmlar",
+			"path": "D:/rasmlar"
+		},
+		{
+			"name": "MATH.HTML",
+			"path": "../../MATH.HTML"
+		},
+		{
+			"name": "Images cool",
+			"path": "../../Images cool"
+		},
+		{
+			"name": "bootstrap-demo",
+			"path": "../../bootstrap-demo"
+		},
+		{
+			"name": "chatgpt",
+			"path": "../../chatgpt"
+		},
+		{
+			"name": "S.Arislonov__lessons.html",
+			"path": "../../S.Arislonov__lessons.html"
+		},
+		{
+			"name": "frameworks",
+			"path": "../../frameworks"
+		},
+		{
+			"name": "frames",
+			"path": "../../frames"
+		},
+		{
+			"name": "portfolio",
+			"path": "../../portfolio"
+		},
+		{
+			"name": "digit",
+			"path": ".."
+		},
+		{
+			"name": "github",
+			"path": "../../github"
+		},
+		{
+			"path": "../../sourcemap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	},
+	"extensions": {
+		"recommendations": [
+			"ritwickdey.liveserver"
+		]
+	}
+}
